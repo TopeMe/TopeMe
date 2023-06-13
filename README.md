@@ -1,4 +1,4 @@
-![Header](C:\Users\Admin\Downloads/github-header-image.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm TopeQue</h1>
 <h3 align="center">A passionate developer from the Philippines </h3>
 <br>
