@@ -6,8 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ivkn5ji01780hlnjoa3umwqt85fstt5v4tl3ijfa&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topeque&label=Profile%20views&color=0e75b6&style=flat" alt="topeque" /> </p>
 
-- 🔭 I’m currently working on **Cenix Systems**
-
+- 🔭 I’m currently working at **CeniXys**
+- 🔭 Uscript plugin developer
 - 🌱 I’m currently learning **Django, Data Analyis, Data Science, Computer Science,Adruino, C#**
 
 - 💬 Ask me about **Django, Python**
