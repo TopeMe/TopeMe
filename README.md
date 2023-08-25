@@ -10,7 +10,7 @@
 - 🔭 Uscript plugin developer
 - 🌱 I’m currently learning **Django, Data Analyis, Data Science, Computer Science,Adruino, C#**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, API, C#, **
 
 ![TopeQue's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
