@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Django, Python, API, C#, **
 
-![TopeQue's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![TopeQue's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopeMe&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
