@@ -1,4 +1,4 @@
-
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm TopeQue</h1>
 <h3 align="center">Just a Python dev :D </h3>
 <h4 align="center">“I invented nothing new. I simply assembled the discoveries of other men behind whom were centuries of work. Had I worked fifty or ten or even five years before, I would have failed. So it is with every new thing. Progress happens when all the factors that make for it are ready, and then it is inevitable. To teach that a comparatively few men are responsible for the greatest forward steps of mankind is the worst sort of nonsense.” <br>― Henry Ford</h4>
