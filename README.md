@@ -6,8 +6,9 @@
 <img align="right" alt="Coding" width="175" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ivkn5ji01780hlnjoa3umwqt85fstt5v4tl3ijfa&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working at **CeniXys**
-- 🔭 Uscript plugin developer
-- 🌱 I’m currently learning **Django, Data Analyis, Data Science, Computer Science,Adruino, C#, C**
+- 🔭 Was a Uscript plugin developer for Unturned servers
+- 🐤 Had my Spare time working with UI/UX designs for Unturned Website Shops
+- 🌱 I’m currently learning **Django, Data Analyis, Data Science, Computer Science, Adruino, C#, C**
 
 - 💬 Ask me about **Django, Python, API, C#**
 
