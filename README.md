@@ -25,18 +25,28 @@ I'm a software engineer and entrepreneur focused on building practical, scalable
 
 > All client projects delivered under **[CeniXys](https://www.facebook.com/cenixys)** — a software solutions company I founded in 2023 to serve SMBs in Leyte, Philippines.
 
-### 🏗️ CeniXys Client Projects
+<table>
+<tr>
+<td valign="top">
 
+### 🏗️ CeniXys Client Projects
 | Year | Project | Role | Description | Link |
 |------|---------|------|-------------|------|
 | 2026 | **Startfill Construction** | Lead Programmer | Web system for managing construction operations end-to-end | [→ View](https://www.facebook.com/p/Startfill-Construction-Services-61566630485119/) |
-| 2025 | **Icon-Poc** | UI/UX Design & Client Relations | Led design direction and maintained client communication throughout the project | [→ View](https://www.icon-poc.com/) |
+| 2025 | **Icon-Poc** | UI/UX Design & Client Relations | Led design direction and maintained client communication | [→ View](https://www.icon-poc.com/) |
 | 2025 | **Racho Veterinary** | Project Manager | Web system for managing operations of a local veterinary clinic | [→ View](https://www.rachovet.com/client_landingpage.php) |
-| 2025 | **ManageMyISP** | Lead Programmer | Web + mobile app system for ISP management and operations | [→ View](https://www.managemyisp.site/) |
-| 2024 | **Ejeep** | Project Manager | Web + app system that tracks real-time passenger locations on PUV buses | — |
-| 2024 | **Traffic Violation System** | Lead Programmer | Web system for recording and managing vehicle traffic violations | — |
-| 2024 | **Employee Attendance System** | Lead Programmer | Web system for tracking employee attendance via barcode scanning | — |
-| 2023 | **Coursify** | Project Manager | App that helps students discover college courses suited to their profile | — |
+| 2025 | **ManageMyISP** | Lead Programmer | Web + mobile app system for ISP management | [→ View](https://www.managemyisp.site/) |
+| 2024 | **Ejeep** | Project Manager | Real-time passenger location tracking on PUV buses | — |
+| 2024 | **Traffic Violation System** | Lead Programmer | Web system for recording vehicle traffic violations | — |
+| 2024 | **Employee Attendance System** | Lead Programmer | Attendance tracking via barcode scanning | — |
+| 2023 | **Coursify** | Project Manager | App helping students find suited college courses | — |
+
+</td>
+<td valign="top" width="200" align="center">
+  <img src="./dog.png" width="180" />
+</td>
+</tr>
+</table>
 
 ### 🧩 Independent Projects
 
