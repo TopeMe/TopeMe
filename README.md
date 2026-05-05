@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **Django, Python, API, C#**
 
-![TopeQue's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopeMe&show_icons=true&theme=holi&border_radius=9.0) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopeMe&layout=donut&theme=holi&border_radius=9.0)
 ![Codewars Badge](https://www.codewars.com/users/TopeMe/badges/large)
 
 <h3 align="left">Connect with me:</h3>
