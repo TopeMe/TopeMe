@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working at **CeniXys**
 - 🔭 Was a Uscript plugin developer for Unturned servers
-- 🐤 Had my Spare time working with UI/UX designs for Unturned Website Shops
-- 🌱 I’m currently learning **Django, Data Analyis, Data Science, Computer Science, Adruino, C#, C**
+- 🐤 Worked with UI/UX designs for Unturned(game) shops 
+- 🌱 I’m currently learning **Adruino & C** in my spare time
 
 - 💬 Ask me about **Django, Python, API, C#**
 
