@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Banner" width="100%" />
+  <img src="./cenixys_github_banner_v3.svg" alt="Banner" width="100%" />
 </div>
 
 <br/>
