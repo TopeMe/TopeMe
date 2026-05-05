@@ -25,9 +25,6 @@ I'm a software engineer and entrepreneur focused on building practical, scalable
 
 > All client projects delivered under **[CeniXys](https://www.facebook.com/cenixys)** — a software solutions company I founded in 2023 to serve SMBs in Leyte, Philippines.
 
-<table>
-<tr>
-<td valign="top">
 
 ### 🏗️ CeniXys Client Projects
 | Year | Project | Role | Description | Link |
@@ -40,13 +37,6 @@ I'm a software engineer and entrepreneur focused on building practical, scalable
 | 2024 | **Traffic Violation System** | Lead Programmer | Web system for recording vehicle traffic violations | — |
 | 2024 | **Employee Attendance System** | Lead Programmer | Attendance tracking via barcode scanning | — |
 | 2023 | **Coursify** | Project Manager | App helping students find suited college courses | — |
-
-</td>
-<td valign="top" width="200" align="center">
-  <img src="./lookup.png" width="180" />
-</td>
-</tr>
-</table>
 
 ### 🧩 Independent Projects
 
