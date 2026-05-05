@@ -43,7 +43,7 @@ I'm a software engineer and entrepreneur focused on building practical, scalable
 
 </td>
 <td valign="top" width="200" align="center">
-  <img src="./dog.png" width="180" />
+  <img src="./AA.png" width="180" />
 </td>
 </tr>
 </table>
